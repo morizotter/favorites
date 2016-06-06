@@ -1,5 +1,7 @@
 # favorites
 
+Things I started liking before I even knew it.
+
 ## Alex Garland
 
 ![Alex Garland](./photos/thebeach.jpg)
